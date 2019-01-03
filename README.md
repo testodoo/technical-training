@@ -35,7 +35,7 @@ can find what they need as quickly as you can find a book in the Citadel's
 Library, which is the largest in Westeros.
 
 - **Hint**: To have access to the models in the UI, you can add a menu from the
-  models table in the UI in debug mode (go to Settings/Technical/Models, pick
+  models table in the UI in developer mode (go to Settings/Technical/Models, pick
   your model and click on Create a Menu).
 - **Technical Hint**: Do not forget to import the `api`, `models` and `fields`
   and your different files
@@ -71,7 +71,7 @@ A non profit organisation needs your help. They would like to use Odoo to
 organize the work of their volunteers. They are managing a cooperative shop
 selling local products. The cooperative split all the work in smaller tasks that
 are coming every week like loading a truck, handling the point of sale,
-distributing the goods, etc. The have various type of volunteers, some are able
+distributing the goods, etc. They have various type of volunteers, some are able
 to take responsibilities for recurring tasks, some can only take over a task
 every now and then. Not every task can be handled by only one person. In the
 end, every job has to be done.
@@ -86,16 +86,16 @@ in a recurring way 2-3 hours per week at a time.
 
 ### Reference
 
-* [Activate Debug Mode](https://www.odoo.com/documentation/11.0/howtos/web.html#a-simple-module)
-* [Models Documentation](http://www.odoo.com/documentation/11.0/reference/orm.html#model-reference)
-* [Basic Fields Documentation](http://www.odoo.com/documentation/11.0/reference/orm.html#basic-fields)
-* [Relational Fields Documentation](http://www.odoo.com/documentation/11.0/reference/orm.html#relational-fields)
-* [Online Tutorial](http://www.odoo.com/documentation/11.0/howtos/backend.html#build-an-odoo-module)
+* [Activate Developer Mode](https://www.odoo.com/documentation/12.0/howtos/web.html#a-simple-module)
+* [Models Documentation](http://www.odoo.com/documentation/12.0/reference/orm.html#model-reference)
+* [Basic Fields Documentation](http://www.odoo.com/documentation/12.0/reference/orm.html#basic-fields)
+* [Relational Fields Documentation](http://www.odoo.com/documentation/12.0/reference/orm.html#relational-fields)
+* [Online Tutorial](http://www.odoo.com/documentation/12.0/howtos/backend.html#build-an-odoo-module)
 
 ### Code Sample
 
 * [API stuff to import](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/odoo/addons/base/res/res_bank.py#L5)
-* [Simple model with some basic fields](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/odoo/addons/base/res/res_bank.py#L15)
+* [Simple model with some basic fields](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/odoo/addons/base/res/res_bank.py#L15-L32)
 * [Many2one](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/addons/sale/models/sale.py#L701)
 * [One2many](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/addons/sale/models/sale.py#L128)
 * [Many2many](https://github.com/odoo/odoo/blob/76c443eda331b75bf5dfa7ec22b8eb22e1084343/addons/account/models/product.py#L25)
