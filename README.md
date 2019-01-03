@@ -25,7 +25,7 @@ The academy wants to allow anybody to see general information on courses and ses
 
 ## References
 
-* [URL and routing](http://www.odoo.com/documentation/11.0/howtos/website.html#urls-and-routing)
+* [URL and routing](http://www.odoo.com/documentation/12.0/howtos/website.html#urls-and-routing)
 
 ### Code Sample
 
