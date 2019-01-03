@@ -36,8 +36,8 @@ Now that you're experimented, imagine what reports would be useful for a Library
 
 ## References
 
-* [Qweb](https://www.odoo.com/documentation/11.0/reference/qweb.html)
-* [Reports with Qweb](https://www.odoo.com/documentation/11.0/reference/reports.html)
+* [Qweb](https://www.odoo.com/documentation/12.0/reference/qweb.html)
+* [Reports with Qweb](https://www.odoo.com/documentation/12.0/reference/reports.html)
 
 ### Code Sample
 
