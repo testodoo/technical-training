@@ -41,8 +41,8 @@ book model.
 
 ### Reference
 
-* [View Inheritance](http://www.odoo.com/documentation/11.0/reference/views.html#inheritance)
-* [Online Tutorial](http://www.odoo.com/documentation/11.0/howtos/backend.html#view-inheritance)
+* [View Inheritance](http://www.odoo.com/documentation/12.0/reference/views.html#inheritance)
+* [Online Tutorial](http://www.odoo.com/documentation/12.0/howtos/backend.html#view-inheritance)
 
 ### Code Sample
 
